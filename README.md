@@ -1,1 +1,1 @@
-# fpga-industrial-imaging
+# Industrial Imaging 
