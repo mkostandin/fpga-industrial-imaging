@@ -2,6 +2,6 @@
 ### FPGA with on-board processor
 ### Embedded Application 
 ### Zynq+
-## Vitus AI
+### Vitus AI
 ## Xlinx Kria
 
